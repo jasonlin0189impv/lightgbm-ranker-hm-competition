@@ -10,4 +10,4 @@ Use lightgbm ranker with kaggle H&amp;M Competition datasets
 
 ## Metrics
 * MAP@12 (from kaggle H&amp;M Competition)
-<img src="[drawing.jpg](https://github.com/jasonlin0189impv/lightgbm-ranker-hm-competition/blob/main/MAP%4012.png)" alt="mpa@12" width="200"/>
+<img src="https://github.com/jasonlin0189impv/lightgbm-ranker-hm-competition/blob/main/MAP%4012.png" alt="ma@p12" width="200"/>
