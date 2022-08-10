@@ -9,5 +9,5 @@ Use lightgbm ranker with kaggle H&amp;M Competition datasets
 * LightGBM Ranker
 
 ## Metrics
-* MAP@12
-![alt text](https://github.com/jasonlin0189impv/lightgbm-ranker-hm-competition/blob/main/MAP%4012.png)
+* MAP@12 (from kaggle H&amp;M Competition)
+<img src="[drawing.jpg](https://github.com/jasonlin0189impv/lightgbm-ranker-hm-competition/blob/main/MAP%4012.png)" alt="mpa@12" width="200"/>
