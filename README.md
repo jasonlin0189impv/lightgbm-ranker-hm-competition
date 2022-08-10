@@ -1,2 +1,2 @@
 # lightgbm-ranker-hm-competition
-Use lightgbm ranker at kaggle h&amp;m competition
+Use lightgbm ranker with kaggle h&amp;m competition datasets
